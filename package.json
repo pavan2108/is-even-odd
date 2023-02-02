@@ -1,0 +1,23 @@
+{
+  "name": "@pavan2108/is-even-odd",
+  "version": "1.0.2",
+  "description": "Check if number is even or odd",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavan2108/is-even-odd.git"
+  },
+  "keywords": [
+    "even-odd"
+  ],
+  "author": "pavan2108",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavan2108/is-even-odd/issues"
+  },
+  "homepage": "https://github.com/pavan2108/is-even-odd#readme"
+}
