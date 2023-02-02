@@ -8,3 +8,21 @@
 | :---         |     :---:      |          ---: |
 | isEven   | number     | Boolean    |
 | isOdd    | number     | Boolean      |
+
+
+### Sample Implementation
+
+```javascript
+
+import {isEven, isOdd} from "@pavan2108/is-even-odd";
+
+isEven(10) 
+// return true
+
+isEven("10")
+// return false 
+
+isOdd(10)
+// return false
+
+```
